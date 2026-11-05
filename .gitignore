@@ -1,0 +1,4 @@
+# Local work notes and Python artifacts
+작업-기록.md
+__pycache__/
+*.py[cod]
